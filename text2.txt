@@ -2,6 +2,7 @@
 
 second text
 
+<<<<<<< HEAD
 
 
 
@@ -13,3 +14,6 @@ second text
 1)
 
 fdsdffdd
+=======
+changed
+>>>>>>> 16fbd5fc876b023f273143f19f6d85c4e4b20d7f
